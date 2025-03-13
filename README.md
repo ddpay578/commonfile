@@ -1,1 +1,2 @@
-ddpay项目中以来的sql文件和外部jar文件
+ddpay项目中的sql
+外部jar
